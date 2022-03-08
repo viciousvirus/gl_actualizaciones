@@ -1,5 +1,5 @@
 # GALAXY LIFE - ACTUALIZACIONES
-## Stage - 6 de Marzo de 2022
+## 6 de Marzo de 2022 - Discord Stage
 Se han hecho muchas preguntas, que han sido recompiladas (por Kibble), traducidas y publicado(por ViciousVirus), y resumidas(Pech y Sensei).
 Esto no es toda la conversación completa, si quieres ver más detalles por favor [clica en este enlace](https://viciousvirus.github.io/gl_actualizaciones_completo/)
 
