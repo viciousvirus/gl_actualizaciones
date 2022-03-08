@@ -1,7 +1,7 @@
 # GALAXY LIFE - ACTUALIZACIONES
 ## Stage - 6 de Marzo de 2022
 `Se han hecho muchas preguntas, que han sido recompiladas (por Kibble), traducidas(por ViciousVirus) y resumidas(Pech y Sensei).
-Esto no es toda la conversación completa, si quieres ver más detalles por favor clica en este enlace:`
+Esto no es toda la conversación completa, si quieres ver más detalles por favor clica en este enlace:` https://github.com/viciousvirus/gl_actualizaciones/blob/gh-pages/todas_las_preguntas
 
 ### 📆¿Cuando estará disponible el juego y en qué plataformas? Se podrá en Puffin?
 Esperamos que sea posiblemente a comienzos de Abril (las fechas pueden cambiar), en el launcher de Phoenix Network, y si es posible en Steam(buscamos un modelo de negocio diferente) o algo como Epic Games(primero requiere ser lanzado en Steam), con funciones de Discord como añadir amigos, y Puffin como otros navegadores que tengan flash estará disponible, pero puede ser inestable para algunos dispositivos. 
