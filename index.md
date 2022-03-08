@@ -1,6 +1,6 @@
 # GALAXY LIFE - ACTUALIZACIONES
 ## Stage - 6 de Marzo de 2022
-Se han hecho muchas preguntas, que han sido recompiladas (por Kibble), traducidas(por ViciousVirus) y resumidas(Pech y Sensei).
+Se han hecho muchas preguntas, que han sido recompiladas (por Kibble), traducidas y publicado(por ViciousVirus), y resumidas(Pech y Sensei).
 Esto no es toda la conversación completa, si quieres ver más detalles por favor [clica en este enlace](https://github.com/viciousvirus/gl_actualizaciones/blob/gh-pages/todas_las_preguntas)
 
 ### 📆¿Cuando estará disponible el juego y en qué plataformas? Se podrá en Puffin?
