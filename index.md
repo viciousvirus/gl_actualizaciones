@@ -7,7 +7,7 @@ Esto no es toda la conversación completa, si quieres ver más detalles por favo
 Esperamos que sea posiblemente a comienzos de Abril (las fechas pueden cambiar), en el launcher de Phoenix Network, y si es posible en Steam(buscamos un modelo de negocio diferente) o algo como Epic Games(primero requiere ser lanzado en Steam), con funciones de Discord como añadir amigos, y Puffin como otros navegadores que tengan flash estará disponible, pero puede ser inestable para algunos dispositivos. 
 
 ### 📱¿Cuando saldrá Pocket Adventures? Estará disponible en Play Store?
-Saldrá después del lanzamiento de Galaxy Life en PC. Sobre Play Store, el problema que tenemos es que és de 32 bits y Google no lo acepta, pensamos también en ponerlo en el sitio web pero causaría problemas con las actualizaciones, asi que saldra en Google o Apple para que todo vaya correctamente.
+Saldrá después del lanzamiento de Galaxy Life en PC. Sobre Play Store, el problema que tenemos es que és de 32 bits y Google no lo acepta, pensamos también en ponerlo en el sitio web pero causaría problemas con las actualizaciones, asi que saldrá en Google o Apple para que todo vaya correctamente.
 
 ### 🤔¿Qué pasa con nuestro progreso de Galaxy Life Reborn?
 Será difícil, Marido se comprometió a ello, si no fuese así entonces una copia antigua que tenemos pero es cuestionable. La estructura de la data es diferente al nuestro, surgiendo problemas de compatibilidad y que se debe analizar. Haremos lo mejor posible y más adelante una encuesta para decidir si los jugadores quieren mantener el progreso.
