@@ -4,13 +4,13 @@ Se han hecho muchas preguntas, que han sido recompiladas (por el usuario Kibble)
 Esto no es toda la conversación completa, si quieres ver más detalles por favor dale [clic a este enlace](https://viciousvirus.github.io/gl_6-3-22)
 
 
-### ¿Cuando estará disponible el juego y en qué plataformas? Se podrá en Puffin?
+### ¿Cuando estará disponible el juego y en qué plataformas? ¿Se podrá en Puffin?
 Esperamos que sea posiblemente a comienzos de Abril (las fechas pueden cambiar), en el launcher de Phoenix Network, y si es posible en Steam (buscamos un modelo de negocio diferente) o algo como Epic Games (primero requiere ser lanzado en Steam), con funciones de Discord como añadir amigos, y Puffin tanto como otros navegadores que tengan Flash Player seran disponible, pero puede ser inestable para algunos dispositivos. 
 
 ### ¿Se añadiran mas edificios al juego? ¿Esto volvera el juego mas lento?
 Tenemos unos edificios ya planeados como el de alianzas. Tenemos también planes para nuevos edificios que nunca fueron lanzados en Galaxy Life. Como edificios que den soporte a otros jugadores en guerras o algo similar. Como ejemplo, puedes ir basado en el nivel de la alianza para mejores recompensas. Como también usarlo para poner tropas que se puedan usar por otros jugadores y también decoraciones.
 
-### ¿Cuando saldrá Pocket Adventures? Estará disponible en Play Store?
+### ¿Cuando saldrá Pocket Adventures? ¿Estará disponible en Play Store?
 Saldrá después del lanzamiento de Galaxy Life en PC. Sobre Play Store, el problema que tenemos es que és de 32 bits y Google no lo acepta, pensamos también en ponerlo en el sitio web pero causaría problemas con las actualizaciones, asi que saldrá en Google o Apple para que todo vaya correctamente.
 
 ### ¿Qué pasa con nuestro progreso de Galaxy Life Reborn?
